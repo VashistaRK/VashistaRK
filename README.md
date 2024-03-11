@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, sklearn, react, nodejs**
 
-- 📫 How to reach me **218R1A6753**
+- 📫 How to reach me **218R1A6752@gmail.com**
 
 <p align="left">
 </p>
