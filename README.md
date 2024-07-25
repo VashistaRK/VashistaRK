@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning & Frontend**
 
-- 🌱 I’m currently learning **Tensorflow, sklearn, react, nodejs**
+- 🌱 I’m currently learning **React, nodejs**
 
 - 📫 How to reach me **218R1A6752@gmail.com**
 
