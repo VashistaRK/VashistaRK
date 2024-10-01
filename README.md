@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VASHISTA_RAMA_KRISHNA</h1>
 <h3 align="center">A passionate programmer and developer</h3>
 
-- 🔭 I’m currently working on **Machine Learning & Frontend**
+- 🔭 I’m currently working on **Machine Learning & Web Development**
 
 - 🌱 I’m currently learning **React, nodejs**
 
