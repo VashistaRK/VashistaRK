@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm VASHISTA_RAMA_KRISHNA</h1>
 <h3 align="center">A passionate programmer and developer</h3>
 
-- 🔭 I’m currently working on **Machine Learning & Web Development**
+- 🔭 I’m currently working on **Software & Web Development**
 
-- 🌱 I’m currently learning **React, nodejs**
+- 🌱 I’m currently learning **System Design, Java**
 
-- 📫 How to reach me **218R1A6752@gmail.com**
+- 📫 How to reach me **vashistaraman47@gmail.com**
 
 <p align="left">
 </p>
